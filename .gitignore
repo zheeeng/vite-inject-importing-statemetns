@@ -1,0 +1,7 @@
+.idea
+.tmp
+.pnpm-debug.log
+.eslintcache
+.stylelintcache
+node_modules
+.DS_Store

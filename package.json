@@ -1,0 +1,35 @@
+{
+  "private": true,
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "clean": "rm -rf ./node_modules"
+  },
+  "dependencies": {
+    "@pixi/app": "^6.2.1",
+    "@pixi/constants": "^6.2.1",
+    "@pixi/core": "^6.2.1",
+    "@pixi/display": "^6.2.1",
+    "@pixi/graphics": "^6.2.1",
+    "@pixi/graphics-extras": "^6.2.1",
+    "@pixi/interaction": "^6.2.1",
+    "@pixi/loaders": "^6.2.1",
+    "@pixi/math": "^6.2.1",
+    "@pixi/polyfill": "^6.2.1",
+    "@pixi/runner": "^6.2.1",
+    "@pixi/settings": "^6.2.1",
+    "@pixi/sprite": "^6.2.1",
+    "@pixi/text": "^6.2.1",
+    "@pixi/ticker": "^6.2.1",
+    "@pixi/utils": "^6.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.15",
+    "pnpm": "^6.24.2",
+    "typescript": "^4.5.4",
+    "vite": "^2.7.13"
+  }
+}
